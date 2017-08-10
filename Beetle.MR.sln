@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beetle.MR", "Beetle.MR\Beetle.MR.csproj", "{3F8C4E32-70FE-42D4-A052-FB15B816D5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beetle.MR.UnitTest", "Beetle.MR.UnitTest\Beetle.MR.UnitTest.csproj", "{68CE13E4-A1FD-4360-B501-9E438352E7B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F8C4E32-70FE-42D4-A052-FB15B816D5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8C4E32-70FE-42D4-A052-FB15B816D5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8C4E32-70FE-42D4-A052-FB15B816D5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8C4E32-70FE-42D4-A052-FB15B816D5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CE13E4-A1FD-4360-B501-9E438352E7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CE13E4-A1FD-4360-B501-9E438352E7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CE13E4-A1FD-4360-B501-9E438352E7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CE13E4-A1FD-4360-B501-9E438352E7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
